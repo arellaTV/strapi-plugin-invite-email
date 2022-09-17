@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-invite-email",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for Strapi that sends a templated email with a magic link whenever an admin user is invited.",
   "strapi": {
     "name": "strapi-plugin-invite-email",
@@ -21,5 +21,10 @@
     "node": ">=14.19.1 <=16.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/arellaTV/strapi-plugin-invite-email",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arellaTV/strapi-plugin-invite-email.git"
+  }
 }
